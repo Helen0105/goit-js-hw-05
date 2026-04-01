@@ -1,0 +1,28 @@
+.play{
+
+padding-bottom: 50px;
+}
+
+
+h1{
+    font-size: 50px;
+    color: cornflowerblue;
+}
+
+.btn{
+    background-color: rgb(27, 40, 180);
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(176, 222, 230);
+    height: 200px;
+    width: 400px;
+    font-size: 50px;
+    
+}
+
+.current-click{
+    font-weight: bold; 
+    font-size: 24px; 
+    color: blue;
+}
+
