@@ -1,0 +1,25 @@
+.play {
+  padding-bottom: 50px;
+}
+
+h1 {
+  color: #6495ed;
+  font-size: 50px;
+}
+
+.btn {
+  color: #b0dee6;
+  background-color: #1b28b4;
+  width: 400px;
+  height: 200px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 50px;
+}
+
+.current-click {
+  color: #00f;
+  font-size: 24px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=goit-js-hw-05.2cdaf7bc.css.map */
